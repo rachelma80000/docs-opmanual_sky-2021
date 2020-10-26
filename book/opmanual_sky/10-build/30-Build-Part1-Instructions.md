@@ -91,6 +91,8 @@ If you make a mistake while soldering, review the [instructions for fixing solde
 
 Solder the 680 Ohm resistor and your LED to the Pi Hat as shown in the image.
 
+Remark: The value of the resistor can be modified to adjust the brightness of the LED at full power. If you have additional resistors, you can modify this resistance by using a resistor with a smaller resistance, or by adding resistors in parallel later on. A helpful thread for understanding why this resistance should work is found [here](https://electronics.stackexchange.com/questions/378129/can-i-use-blue-green-leds-as-mcu-state-indicators-on-3-3-v-power).
+
 Note: The direction of the resistor does not matter, but the direction of the LED **does matter.** Be sure to place the cathode (shorter end) into the GND rail.
 
 <figure>  
