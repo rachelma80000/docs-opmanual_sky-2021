@@ -102,6 +102,8 @@ On your base station, install [Cleanflight](http://cleanflight.com/) (you will n
 
 ## Flash the firmware
 
+Please follow the written instructions below to flash firmware onto your flight controller. If you are having trouble flashing, please follow [this video](https://drive.google.com/file/d/1F73czx0B381jY2ls-R7TQQ2HCC185t96/view?usp=sharing) to flash the flight controller with the boot pins shorted.
+
 ### Open the firmware flasher
 
 1. Launch CleanFlight
